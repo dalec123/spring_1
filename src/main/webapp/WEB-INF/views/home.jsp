@@ -11,12 +11,12 @@
 	Hello world!  Spring
 </h1>
 
-<img src="./resources/images/p1.jpg">
+<%-- <img src="./resources/images/p1.jpg">
 
 
 <P>  The time on the server is ${serverTime}. </P>
 
 <a href="./notice/noticeList?name=notice">Go Notice</a>
-<a href="./qna/qnaList?curPage=1">Go Qna</a>
+<a href="./qna/qnaList?curPage=1">Go Qna</a> --%>
 </body>
 </html>
